@@ -1,10 +1,7 @@
-<!--
-**EmaFarcy/EmaFarcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### 👋 Hi there, my name is Emanuel Farcy
+# console.log('Hi there, my name is Emanuel Farcy 👋')
 
 ### >_ About Me:
-I’m studying at the Instituto Técnico Superior Córdoba to become a software developer.  I think we can do magic and create an infinity of possibilities with the code due to the fact in every project we put our creativity, intelligence and knowledge on. 
+Currently studying at the Instituto Técnico Superior Córdoba to become a software developer.  I think we can do magic and create an infinity of possibilities with the code due to the fact in every project we put our creativity, intelligence and knowledge on. 
 
 Finally, I love riding my bike and being with my friends
 
